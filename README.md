@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/7JPLNVt.jpg)
+![Header](https://imgur.com/ma2r7J7.jpg)
 
 
 <!-- <img align="right" alt="Coding" width="400" src="add your link 
