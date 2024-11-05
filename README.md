@@ -11,7 +11,7 @@ I'm Kelvin Lie, a passionate developer with a keen interest in Web Development, 
 ## About Me 🙋🏻
 
 - 🔭 I’m currently working on Microservices Personal Project
-- 🌱 I’m currently learning JavaScript and NodeJS
+- 🌱 I’m currently learning JavaScript and ReactJS
 - 🤔 I’m looking for help with optimizing algorithms for large-scale data processing.
 - 📫 How to reach me: Click the contact badge below 😁
 - 😄 Pronouns: He/Him
@@ -70,6 +70,6 @@ Feel free to reach out if you'd like to collaborate on a project, have any quest
 # Good byee👋
 Thanks for visiting my profile! If you found anything interesting or have any questions, feel free to reach out. Have a great day!
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)
+<!--![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleponaeru&hide=css,scss,html&theme=dark)
