@@ -74,6 +74,8 @@ Thanks for visiting my profile! If you found anything interesting or have any qu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleponaeru&hide=css,scss,html&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kleponaeru&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kleponaeru&repo=DeafLearn)](https://github.com/Kleponaeru/DeafLearn)
+
 
 
 
