@@ -73,5 +73,6 @@ Thanks for visiting my profile! If you found anything interesting or have any qu
 <!--![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleponaeru&hide=css,scss,html&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kleponaeru&show_icons=true&hide_title=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kleponaeru&bg_color=black&color=00ff00&line=00ff00&point=ff0000)
+
 
