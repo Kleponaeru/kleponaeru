@@ -41,12 +41,12 @@ This project ([link](https://github.com/Kleponaeru/Web-Based-Programming-Practic
 Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to say hi!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <div style="display: flex; align-items: center;" >
 <a href="mailto:kelvinlie08@gmail.com" style="text-decoration:none; margin-bottom:10px;margin-right:10px; display:inline-block;">
