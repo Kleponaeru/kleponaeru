@@ -70,7 +70,7 @@ Feel free to reach out if you'd like to collaborate on a project, have any quest
 # Good byee👋
 Thanks for visiting my profile! If you found anything interesting or have any questions, feel free to reach out. Have a great day!
 
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)
+<!--![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleponaeru&hide=css,scss,html&theme=dark)
 
