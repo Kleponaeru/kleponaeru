@@ -74,7 +74,8 @@ Thanks for visiting my profile! If you found anything interesting or have any qu
 <!--![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleponaeru&hide=css,scss,html&theme=dark)
-![Visitor Count](https://profile-counter.glitch.me/Kleponaeru/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/Kleponaeru/count.svg)-->
+
 
 
 
