@@ -6,7 +6,7 @@
 
 # Hey there! 👋
 
-I'm Kelvin Lie, a passionate developer with a keen interest in Web Development, Database Development and BackEnd Development. Welcome to my GitHub profile! ✨
+I'm Kelvin Lie, a passionate developer with a strong focus on Web Development, Database Design, and Back-End Engineering. Welcome to my GitHub — where I share projects, ideas, and my journey in tech! ✨
 
 ## About Me 🙋🏻
 
