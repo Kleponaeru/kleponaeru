@@ -10,9 +10,9 @@ I'm Kelvin Lie, a passionate developer with a keen interest in Web Development, 
 
 ## About Me 🙋🏻
 
-- 🔭 I’m currently working on Microservices Personal Project
-- 🌱 I’m currently learning JavaScript and ReactJS
-- 🤔 I’m looking for help with optimizing algorithms for large-scale data processing.
+- 👨‍💻 I’m currently working as a Fullstack Web Developer at PT Ciptakom Media Nusa
+- 🚧 Currently enhancing my skills in JavaScript and ReactJS
+- 🍿 Currently building Ponflix — an anime streaming platform
 - 📫 How to reach me: Click the contact badge below 😁
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
@@ -21,19 +21,19 @@ I'm Kelvin Lie, a passionate developer with a keen interest in Web Development, 
 
 Here are some of the projects I've been working on:
 
-### 1. Design-Architecture-Microservices
+### 1. CRM - PT. Ciptakom Media Nusa
 
-This project ([link](https://github.com/Kleponaeru/Design-Architecture-Microservices)) is a versatile API implementation designed for various functionalities such as order processing, wallet-based payments, and calculating shipping charges. It's built on a microservices architecture, ensuring scalability and modularity. Feel free to explore and contribute!
+I’m working on the CRM project for PT. Ciptakom Media Nusa, a company initiative, where I’m developing new features, maintaining the system, and refining the existing UI for better usability.
 
-### 2. Web-Based Programming Practicum
+### 2. Ponflix - Anime Stream Platform
 
-This project ([link](https://github.com/Kleponaeru/Web-Based-Programming-Practicum)) is a comprehensive web-based programming practicum utilizing PHP Laravel framework, focused on CRUD operations for managing student data. It includes robust login systems and other essential features to streamline data management tasks. Dive in to explore its functionalities and contribute to its development!
+Ponflix - ([link](https://github.com/Kleponaeru/movie-stream)). Ponflix is a modern anime streaming web app built to offer a smooth and engaging viewing experience. It allows users to explore, track, and watch a wide range of anime titles with a clean, responsive interface. Built using React and styled with Tailwind CSS, it’s designed for performance and user-friendliness.
 
 ## Skills 💪🏻
 
 - **Programming Languages:** PHP, C#, JavaScript, Java, Python, and C++
-- **Frameworks & Libraries**: Laravel, Bootstrap, jQuery
-- **Tools & Technologies**: Visual Studio Code, Visual Studio 2022, SQL Server Management Studio, Adobe Illustrator (for graphic design), Figma (for UI/UX design and prototyping)
+- **Frameworks & Libraries**: Laravel, React JS, Bootstrap, jQuery 
+- **Tools & Technologies**: Visual Studio Code, Visual Studio 2022, SQL Server Management Studio, Adobe Illustrator (for graphic design), Figma (for UI/UX design and prototyping), etc/
 - **Other**: I'm always interested in learning new features and technologies!
 
 ## Get in Touch 👋🏻
