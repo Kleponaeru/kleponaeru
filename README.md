@@ -33,7 +33,7 @@ Ponflix - ([link](https://github.com/Kleponaeru/movie-stream)). Ponflix is a mod
 
 - **Programming Languages:** PHP, C#, JavaScript, Java, Python, and C++
 - **Frameworks & Libraries**: Laravel, React JS, Bootstrap, jQuery 
-- **Tools & Technologies**: Visual Studio Code, Visual Studio 2022, SQL Server Management Studio, Adobe Illustrator (for graphic design), Figma (for UI/UX design and prototyping), etc/
+- **Tools & Technologies**: Visual Studio Code, Visual Studio 2022, SQL Server Management Studio, Adobe Illustrator (for graphic design), Figma (for UI/UX design and prototyping), etc.
 - **Other**: I'm always interested in learning new features and technologies!
 
 ## Get in Touch 👋🏻
