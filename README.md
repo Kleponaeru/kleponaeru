@@ -33,17 +33,17 @@ Ponflix - ([link](https://github.com/Kleponaeru/movie-stream)). Ponflix is a mod
 
 **Programming Languages**  
 <p>
-  <img src="https://skillicons.dev/icons?i=php,cs,js,java,python,cpp,dart,html,css&a=false" />
+  <img src="https://skillicons.dev/icons?i=php,cs,js,java,python,cpp,dart,html,css" />
 </p>
 
 **Frameworks & Libraries**  
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,jquery,dotnet&a=false" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,jquery,dotnet" />
 </p>
 
 **Tools & Technologies**  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,postman,mysql,vite,figma,ai&a=false" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,postman,mysql,vite,figma,ai" />
 </p>
 
 **Other**  
