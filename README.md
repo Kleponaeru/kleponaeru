@@ -1,98 +1,144 @@
 ![Header](https://imgur.com/x1oLDlI.png)
 
-
-<!-- <img align="right" alt="Coding" width="400" src="add your link 
-  here"> -->
+<div align="center">
 
 # Hey there! 👋
 
-I'm Kelvin Lie, a passionate developer with a strong focus on Web Development, Database Design, and Back-End Engineering. Welcome to my GitHub — where I share projects, ideas, and my journey in tech! ✨
+### I'm Kelvin Lie, a passionate developer with a strong focus on Web Development, Database Design, and Back-End Engineering.
 
-## About Me 🙋🏻
+**Welcome to my GitHub — where I share projects, ideas, and my journey in tech!** ✨
 
-- 👨‍💻 I’m currently working as a Fullstack Web Developer at PT Ciptakom Media Nusa
-- 🚧 Currently enhancing my skills in JavaScript and ReactJS
-- 🍿 Currently building Ponflix — an anime streaming platform
-- 📫 How to reach me: Click the contact badge below 😁
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things;Anime+enthusiast+%F0%9F%8D%BF)](https://git.io/typing-svg)
 
-## My Projects 🛠️
+</div>
 
-Here are some of the projects I've been working on:
+---
 
-### 1. CRM - PT. Ciptakom Media Nusa
+## 🚀 About Me
 
-I’m working on the CRM project for PT. Ciptakom Media Nusa, a company initiative, where I’m developing new features, maintaining the system, and refining the existing UI for better usability.
+```typescript
+const kelvin = {
+    currentRole: "Fullstack Web Developer @ PT Ciptakom Media Nusa",
+    currentlyLearning: ["JavaScript ES6+", "ReactJS", "Node.js"],
+    currentProject: "Ponflix - Anime streaming platform",
+    hobbies: ["Coding", "Anime", "Rubik's Cube"],
+    funFact: "Can solve a Rubik's Cube in under a minute! ⏱️",
+    pronouns: "He/Him",
+    motto: "Code. Learn. Repeat. 🔄"
+};
+```
 
-### 2. Ponflix - Anime Stream Platform
+## 💼 Featured Projects
 
-Ponflix - ([link](https://github.com/Kleponaeru/movie-stream)). Ponflix is a modern anime streaming web app built to offer a smooth and engaging viewing experience. It allows users to explore, track, and watch a wide range of anime titles with a clean, responsive interface. Built using React and styled with Tailwind CSS, it’s designed for performance and user-friendliness.
+<div align="center">
 
-## Skills 💪🏻
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX | `PHP` `Laravel` `MySQL` | 🚧 In Development |
+| **🎬 [Ponflix](https://github.com/Kleponaeru/movie-stream)** | Modern anime streaming platform with responsive design | `React` `Tailwind CSS` `JavaScript` | ✅ Active |
 
-**Programming Languages**  
+</div>
+
+### 🎯 Ponflix Highlights
+- 🎨 Clean, responsive interface built with React & Tailwind CSS
+- 📱 Mobile-first design approach
+- 🔍 Advanced anime search and filtering
+- 📊 User-friendly streaming experience
+- ⚡ Optimized for performance
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🔧 Programming Languages</b></summary>
+<br>
 <p>
   <img src="https://skillicons.dev/icons?i=php,cs,js,java,python,cpp,dart,html,css" />
 </p>
+</details>
 
-**Frameworks & Libraries**  
+<details>
+<summary><b>⚡ Frameworks & Libraries</b></summary>
+<br>
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,jquery,dotnet" />
 </p>
+</details>
 
-**Tools & Technologies**  
+<details>
+<summary><b>🔨 Tools & Technologies</b></summary>
+<br>
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,postman,mysql,vite,figma,ai" />
 </p>
+</details>
 
-**Other**  
-- Always curious to learn new technologies!
+<details>
+<summary><b>🌱 Currently Exploring</b></summary>
+<br>
 
-## Get in Touch 👋🏻 
+- Advanced React patterns and hooks
+- TypeScript for better code quality
+- Modern CSS techniques
+- API design and optimization
+- Cloud deployment strategies
 
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to say hi!  
+</details>
 
-<p align="left">
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kleponaeru&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 📫 Ready to collaborate or just want to chat about tech?
+
+<p>
   <a href="mailto:kelvinlie08@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/klvnlie08/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Kleponaeru">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/klvnlie_/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-## Profile Stats 📈
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleponaeru&theme=omni"/>
-    </td>
-  </tr>
-</table>
+### 💡 *"The best way to predict the future is to create it."*
 
-# Good byee👋
-Thanks for visiting my profile! If you found anything interesting or have any questions, feel free to reach out. Have a great day!
+</div>
 
-<!--![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleponaeru&show_icons=true&theme=radical)-->
+---
 
-<!--![Visitor Count](https://profile-counter.glitch.me/Kleponaeru/count.svg)-->
+<div align="center">
 
+### 🎉 Thanks for visiting my profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=kleponaeru&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/kleponaeru?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kleponaeru?style=social)
 
+**If you found something interesting or have questions, don't hesitate to reach out!** 🚀
 
+</div>
 
+---
 
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
