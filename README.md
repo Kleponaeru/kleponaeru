@@ -8,7 +8,7 @@
 
 **Welcome to my GitHub — where I share projects, ideas, and my journey in tech!** ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things;Anime+enthusiast+%F0%9F%8D%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Always+learning+new+things;Exploring+Web3+and+modern+tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 ```typescript
 const kelvin = {
     currentRole: "Fullstack Web Developer @ PT Ciptakom Media Nusa",
-    currentlyLearning: ["JavaScript ES6+", "ReactJS", "Node.js"],
+    currentlyLearning: ["Solidity", "ReactJS", "Node.js"],
     currentProject: "Ponflix - Anime streaming platform",
     hobbies: ["Coding", "Anime", "Rubik's Cube"],
     funFact: "Can solve a Rubik's Cube in under a minute! ⏱️",
@@ -34,7 +34,7 @@ const kelvin = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX | `PHP` `Laravel` `MySQL` | 🚧 In Development |
+| **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX | `PHP` `Laravel` `MySQL` | 🚧 Active & In Development |
 | **🎬 [Ponflix](https://github.com/Kleponaeru/movie-stream)** | Modern anime streaming platform with responsive design | `React` `Tailwind CSS` `JavaScript` | ✅ Active |
 
 </div>
@@ -50,7 +50,7 @@ const kelvin = {
 
 ## 🛠️ Tech Arsenal
 
-<details>
+<details open>
 <summary><b>🔧 Programming Languages</b></summary>
 <br>
 <p>
@@ -58,7 +58,7 @@ const kelvin = {
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Frameworks & Libraries</b></summary>
 <br>
 <p>
@@ -66,7 +66,7 @@ const kelvin = {
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🔨 Tools & Technologies</b></summary>
 <br>
 <p>
@@ -74,7 +74,7 @@ const kelvin = {
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>🌱 Currently Exploring</b></summary>
 <br>
 
@@ -83,6 +83,7 @@ const kelvin = {
 - Modern CSS techniques
 - API design and optimization
 - Cloud deployment strategies
+- Web3 development and smart contracts
 
 </details>
 
@@ -91,9 +92,9 @@ const kelvin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kleponaeru&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true" width="30%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleponaeru&theme=omni" width="30%"/>
 </div>
 
 ---
@@ -119,7 +120,8 @@ const kelvin = {
   </a>
 </p>
 
-### 💡 *"The best way to predict the future is to create it."*
+### 💡 *"Anything that can happen, will happen."*  
+— Cooper, *Interstellar*
 
 </div>
 
@@ -131,7 +133,6 @@ const kelvin = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kleponaeru&color=blueviolet&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/kleponaeru?style=social)
-![GitHub stars](https://img.shields.io/github/stars/kleponaeru?style=social)
 
 **If you found something interesting or have questions, don't hesitate to reach out!** 🚀
 
@@ -140,5 +141,5 @@ const kelvin = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
