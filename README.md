@@ -92,9 +92,8 @@ const kelvin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true" width="30%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni" width="30%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleponaeru&theme=omni" width="30%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni"/>
 </div>
 
 ---
