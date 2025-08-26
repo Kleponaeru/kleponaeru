@@ -92,8 +92,8 @@ const kelvin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleponaeru&show_icons=true&theme=omni&include_all_commits=true&count_private=true" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleponaeru&layout=compact&langs_count=8&theme=omni" style="display:inline-block;"/>
 </div>
 <div align="center">
   <img src="https://github.com/kleponaeru/kleponaeru/blob/output/github-snake-dark.svg" alt="snake gif"/>
