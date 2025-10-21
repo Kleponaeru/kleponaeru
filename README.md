@@ -35,7 +35,7 @@ const kelvin = {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX and data management features | `PHP` `Laravel` `MySQL` `Javascript` | 🚧 Active & In Development |
-| **🏢 Hiring System** | Internal recruitment management system for PT. Ciptakom Media Nusa, streamlining job postings and applicant tracking | `PHP` `Laravel` `MySQL` `Vite` `Javascript` | ✅ Active |
+| **💼 Hiring System** | Internal recruitment management system for PT. Ciptakom Media Nusa, streamlining job postings and applicant tracking | `PHP` `Laravel` `MySQL` `Vite` `Javascript` | ✅ Active |
 | **🎬 [Ponflix](https://github.com/Kleponaeru/movie-stream)** | Modern anime streaming platform with responsive design | `React` `Tailwind CSS` `JavaScript` | ✅ Active |
 
 </div>
