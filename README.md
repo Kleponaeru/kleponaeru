@@ -55,7 +55,7 @@ const kelvin = {
 <summary><b>🔧 Programming Languages</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,cs,js,java,python,cpp,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,cs,js,solidity,java,python,cpp,dart,html,css" />
 </p>
 </details>
 
