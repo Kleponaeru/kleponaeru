@@ -18,7 +18,7 @@
 
 ```typescript
 const kelvin = {
-    currentRole: "Fullstack Web Developer @ PT Ciptakom Media Nusa",
+    currentRole: "Fullstack Web Developer @ Quintal ID",
     currentlyLearning: ["Solidity", "ReactJS", "Node.js"],
     currentProject: "Ponflix - Anime streaming platform",
     hobbies: ["Coding", "Anime", "Rubik's Cube"],
@@ -34,7 +34,8 @@ const kelvin = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX and data management features | `PHP` `Laravel` `MySQL` `Javascript` | 🚧 Active & In Development |
+| **🏥 Clinic System** | Enterprise Clinic System for Quintal ID | `Python` `Django` `SQL` `Javascript` | 🚧 Active & In Development |
+| **🏢 CRM System** | Enterprise CRM for PT. Ciptakom Media Nusa with enhanced UI/UX and data management features | `PHP` `Laravel` `MySQL` `Javascript` | ✅ Active |
 | **💼 Hiring System** | Internal recruitment management system for PT. Ciptakom Media Nusa, streamlining job postings and applicant tracking | `PHP` `Laravel` `MySQL` `Vite` `Javascript` | ✅ Active |
 | **🎬 [Ponflix](https://github.com/Kleponaeru/movie-stream)** | Modern anime streaming platform with responsive design | `React` `Tailwind CSS` `JavaScript` | ✅ Active |
 
