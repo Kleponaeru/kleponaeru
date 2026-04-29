@@ -56,7 +56,7 @@ const kelvin = {
 <summary><b>🔧 Programming Languages</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,cs,js,solidity,java,python,django,cpp,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,cs,js,solidity,java,python,cpp,dart,html,css" />
 </p>
 </details>
 
@@ -64,7 +64,7 @@ const kelvin = {
 <summary><b>⚡ Frameworks & Libraries</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,jquery,dotnet" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,react,bootstrap,tailwind,jquery,dotnet" />
 </p>
 </details>
 
